@@ -4,7 +4,7 @@
 
 
 
-# Pre-request
+## Pre-request
 
 
 
@@ -12,7 +12,26 @@
 
 
 
-# Instruction
+## Instruction
+
 ```bash
 make drawio
+```
+
+
+```bash
+makeDiagram
+```
+
+
+```bash
+make preview
+```
+
+```bash
+make pdf
+```
+
+```bash
+make ppt
 ```
