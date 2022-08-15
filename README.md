@@ -20,7 +20,7 @@ make drawio
 
 
 ```bash
-makeDiagram
+make newDiagram
 ```
 
 
