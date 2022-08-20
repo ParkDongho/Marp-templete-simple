@@ -6,17 +6,7 @@
 
 
 
-## Instruction
-
-```bash
-make drawio
-```
-
-
-```bash
-make newDiagram
-```
-
+## How to use
 
 ```bash
 make preview
